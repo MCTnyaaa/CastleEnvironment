@@ -21,3 +21,4 @@ To view the project:
 	Open the map: CastleEnvironment.umap
 
 GitHub repository: https://github.com/MCTnyaaa/CastleEnvironment
+Google Drive (video and screenshots): https://drive.google.com/drive/folders/1ox_uD0VBnfTTc_-7_rt4Xfegrqdjh-CB?usp=sharing
